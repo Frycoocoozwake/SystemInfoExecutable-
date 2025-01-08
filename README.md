@@ -6,4 +6,4 @@ This file is NOT malicious and is harmless if you use it.
 This apps intended purpose is to give you all of your systems info quickly without having to type it in with CMD.
 The only place you can get this app is from my GitHub, YouTube, or Discord. If you got it off a different website delete it right away and notify me about it.
 Thank you for reading this manual, have a nice day fellow PC user!
--!Created by Frycoocoozwake on 1/7/2024 in the .bat format!~
+-!Created by Frycoocoozwake on 1/7/2025 in the .bat format!~
