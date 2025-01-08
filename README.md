@@ -7,3 +7,4 @@ This apps intended purpose is to give you all of your systems info quickly witho
 The only place you can get this app is from my GitHub, YouTube, or Discord. If you got it off a different website delete it right away and notify me about it.
 Thank you for reading this manual, have a nice day fellow PC user!
 -!Created by Frycoocoozwake on 1/7/2025 in the .bat format!~
+Also sorry for the issue that has happened. On the V1 release the creation date is 1/7/2024 instead of 1/7/2025. Sorry for the terrible issue that will be fixed soon after I finish V2.
